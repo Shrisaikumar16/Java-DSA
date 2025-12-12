@@ -1,2 +1,2 @@
 # Java-DSA
-These are my DSA folders in Java
+These are my DSA files in Java
